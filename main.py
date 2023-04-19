@@ -17,7 +17,7 @@ intents.message_content = True
 dashes_1 = [1, 2, 3, 4, 5, 6]
 dashes = ['\u2680', '\u2681', '\u2682', '\u2683', '\u2684', '\u2685']
 bot = commands.Bot(command_prefix='!', intents=intents)
-TOKEN = "MTA5NjAwMzQ2NzI0MTMzNjg1Mg.GYAN5Q.fgcOLGKsZN3rMin5TJJzOajA4JgbhN3dFF_OeE"
+TOKEN = "TOKEN"
 
 
 def founding():     # нахождение ников, существующих в БД на данный момент
