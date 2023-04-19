@@ -1,2 +1,2 @@
 # discord_bot
-bot assistant to Dungeons&amp;Dragons players for discord
+Bot-assistant to "Munchkin" players for Discord
